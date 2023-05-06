@@ -1,0 +1,31 @@
+Trial.ID,Treatment,No.Ants,Location,Habitat.Type,Time.Set,Date 
+1,alkenylphenol,7,Lab Clearing,Forest Edge,2:15:00 PM,15-Jul
+1,control,4,Lab Clearing,Forest Edge,2:15:00 PM,15-Jul
+2,alkenylphenol,2,Lab Clearing,Forest Edge,2:25:00 PM,15-Jul
+2,control,1,Lab Clearing,Forest Edge,2:25:00 PM,15-Jul
+3,alkenylphenol,10,Lab Clearing,Forest Edge,2:35:00 PM,15-Jul
+3,control,7,Lab Clearing,Forest Edge,2:35:00 PM,15-Jul
+4,alkenylphenol,6,Lab Clearing,Forest Edge,2:45:00 PM,15-Jul
+4,control,10,Lab Clearing,Forest Edge,2:45:00 PM,15-Jul
+5,alkenylphenol,7,Lab Clearing,Forest Edge,2:55:00 PM,15-Jul
+5,control,5,Lab Clearing,Forest Edge,2:55:00 PM,15-Jul
+6,alkenylphenol,1,Arboleda,Forest Edge,4:30:00 PM,17-Jul
+6,control,5,Arboleda,Forest Edge,4:30:00 PM,17-Jul
+7,alkenylphenol,7,SURA 300,Secondary F,4:36:00 PM,17-Jul
+7,control,6,SURA 300,Secondary F,4:36:00 PM,17-Jul
+8,alkenylphenol,1,SURA 200,Secondary F,4:45:00 PM,17-Jul
+8,control,2,SURA 200,Secondary F,4:45:00 PM,17-Jul
+9,alkenylphenol,6,Lab Clearing,Forest Edge,4:30:00 PM,19-Jul
+9,control,3,Lab Clearing,Forest Edge,4:30:00 PM,19-Jul
+10,alkenylphenol,6,Lab Clearing,Forest Edge,5:30:00 PM,19-Jul
+10,control,7,Lab Clearing,Forest Edge,5:30:00 PM,19-Jul
+11,alkenylphenol,3,Lab Clearing,Forest Edge,8:00:00 AM,20-Jul
+11,control,1,Lab Clearing,Forest Edge,8:00:00 AM,20-Jul
+12,alkenylphenol,5,SURA 150,Secondary F,8:10:00 AM,20-Jul
+12,control,4,SURA 150,Secondary F,8:10:00 AM,20-Jul
+13,alkenylphenol,2,SURA 100,Secondary F,8:20:00 AM,20-Jul
+13,control,6,SURA 100,Secondary F,8:20:00 AM,20-Jul
+14,alkenylphenol,1,SURA Entr,Secondary F,8:30:00 AM,20-Jul
+14,control,3,SURA Entr,Secondary F,8:30:00 AM,20-Jul
+15,alkenylphenol,4,SURA 50,Secondary F,8:40:00 AM,20-Jul
+15,control,5,SURA 50,Secondary F,8:40:00 AM,20-Jul
