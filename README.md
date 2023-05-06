@@ -1,0 +1,9 @@
+# Piper-ants
+
+These are data and code to accompany:
+Clemente, S. R., & Whitehead, S. R. (2020). Ant seed removal in a non‐myrmecochorous Neotropical shrub: Implications for seed dispersal. Biotropica, 52(1), 90-100.
+
+# Abstract
+
+This study investigated ant seed removal of Piper sancti-felicis, an early successional Neotropical shrub. Neotropical Piper are a classic example of bat-dispersed plants, but we suggest that ants are underappreciated dispersal agents. We identified eleven ant species from the genera Aphaenogaster, Ectatomma, Paratrechina, Pheidole, Trachymyrmex, and Wasmannia recruiting to and harvesting P. sancti-felicis seeds in forest edge and secondary forest sites at La Selva, Costa Rica. We also tested for differences in ant recruitment to five states in which ants can commonly encounter seeds: unripe fruit, ripe fruit, overripe fruit, bat feces, and cleaned seeds. Overall, ants harvested more seeds from ripe and overripe fruits than other states, but this varied among species. To better understand the mechanisms behind ant preferences for ripe/overripe fruit, we also studied how alkenylphenols, secondary metabolites found in high concentrations in P. sancti-felicis fruits, affected foraging behavior in one genus of potential ant dispersers, Ectatomma. We found no effects of alkenylphenols on recruitment of Ectatomma to fruits, and thus, these compounds are unlikely to explain differences in ant recruitment among fruits of different maturity. Considering that P. sancti-felicis seeds have no apparent adaptations for ant dispersal, and few ants removed seeds that were cleaned of pulp, we hypothesize that most ants are harvesting its seeds for the nutritional rewards in the attached pulp. This study emphasizes the importance of ants as important additional dispersers of P. sancti-felicis and suggests that other non-myrmecochorous, vertebrate-dispersed plants may similarly benefit from the recruitment to fruit by ants.
+
